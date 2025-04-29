@@ -22,9 +22,6 @@ Aplicativo mobile desenvolvido para controle de filas em laboratórios médicos,
 - **React Native** com **Expo**
 - **React Navigation** para controle de rotas
 
----
-
-## 🛠️ Como Rodar o Projeto
 
 
 
